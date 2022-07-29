@@ -2,7 +2,7 @@
 
 This is a note application with frontend written in React.js and backend written in Node.js.
 
-#To start the application please follow the instructions (firstly download the app from GitHub):
+# To start the application please follow the instructions (firstly download the app from GitHub):
 
 > Database:
 - The database is in MySQL, so please download MySQL Server or XAMPP, WAMP or another equivalent for your operating system
